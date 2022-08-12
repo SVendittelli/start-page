@@ -1,6 +1,6 @@
-
-
 # StartPage
+
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 This project was generated using [Nx](https://nx.dev).
 
@@ -17,17 +17,17 @@ These capabilities include generating applications, libraries, etc as well as th
 Below are our core plugins:
 
 - [React](https://reactjs.org)
-  - `npm install --save-dev @nrwl/react`
+  - `yarn add -D @nrwl/react`
 - Web (no framework frontends)
-  - `npm install --save-dev @nrwl/web`
+  - `yarn add -D @nrwl/web`
 - [Angular](https://angular.io)
-  - `npm install --save-dev @nrwl/angular`
+  - `yarn add -D @nrwl/angular`
 - [Nest](https://nestjs.com)
-  - `npm install --save-dev @nrwl/nest`
+  - `yarn add -D @nrwl/nest`
 - [Express](https://expressjs.com)
-  - `npm install --save-dev @nrwl/express`
+  - `yarn add -D @nrwl/express`
 - [Node](https://nodejs.org)
-  - `npm install --save-dev @nrwl/node`
+  - `yarn add -D @nrwl/node`
 
 There are also many [community plugins](https://nx.dev/community) you could add.
 
@@ -78,8 +78,6 @@ Run `nx graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
-
-
 
 ## ☁ Nx Cloud
 
